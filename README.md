@@ -7,7 +7,7 @@ This project implements a **machine learning-based product recommendation system
 The recommendation system addresses several key challenges:
 1. Improving the shopping experience by providing relevant product recommendations.
 2. Boosting sales by highlighting products that align with user preferences.
-3. Tackling the [Cold Start Problem](https://github.com/sarojadhikari076/ecommerce-product-recommendation-system/blob/18d7fb2b8feafd117f7c3f9f859255c2e28cfbe4/cold-start-problem.md) by suggesting products to new users without prior browsing history.
+3. Tackling the [Cold Start Problem](https://github.com/sarojadhikari076/ecommerce-product-recommendation-system/blob/18d7fb2b8feafd117f7c3f9f859255c2e28cfbe4/cold_start_problem.md) by suggesting products to new users without prior browsing history.
 
 ## Dataset
 
